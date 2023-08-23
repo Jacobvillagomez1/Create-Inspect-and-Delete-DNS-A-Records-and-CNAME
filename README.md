@@ -1,4 +1,4 @@
-# Create-Inspect-and-Delete-DNS-A-Records-and-CNAME
+# Create Inspect and Delete DNS A Records and CNAME
 <p align="center">
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
