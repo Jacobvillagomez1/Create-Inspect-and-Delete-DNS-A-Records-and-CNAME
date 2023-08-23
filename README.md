@@ -56,3 +56,76 @@ Next open Cilent-1 VM and search for Command Prompt in the search bar.
 </p>
 <br />
 
+<p>
+<img src="https://github.com/Jacobvillagomez1/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME/assets/143027686/d1a70743-8702-48d7-9a00-b46170cc8f56"/>
+</p>
+<p>
+Once CMD loads you will see you are under jane_admin.
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME/assets/143027686/2dd0e5ea-5405-432b-be96-7efd8a6efeae"/>
+</p>
+<p>
+Then Open DC-1 VM and click Tools on the top right side of Server Manager. Then select DNS.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME/assets/143027686/9de400d1-86fe-406e-99c0-0b2d98e49862"/>
+</p>
+<p>
+Next click the DC-1 File.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME/assets/143027686/255b41c0-10d4-4b3a-9c39-5b580aec51ce"/>
+</p>
+<p>
+Then click Forward Lookup Zones.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME/assets/143027686/38e34221-4a9b-431f-95f1-d61ab2d9f8a8"/>
+</p>
+<p>
+Next double click mydomain.com folder
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME/assets/143027686/76996c4c-101c-4a68-bb45-5abc4de56b87"/>
+</p>
+<p>
+We are now going to create a New Host A Record. To do this right click anywhere on the screen and click New Host (A or AAAA)...
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME/assets/143027686/db33009c-73c2-46b3-a7e1-55fbfce70897"/>
+</p>
+<p>
+Now in the Name section we can type mainframe and for IP Address we can type the same IP as dc-1 IP which is 10.0.0.4. Once those are both typed in click add host.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME/assets/143027686/e75975e3-8c5e-40fd-a8e6-355318e4e679"/>
+</p>
+<p>
+Once you added the host click ok.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME/assets/143027686/c99db801-f0d9-4bd8-bbd7-d39e4a15a9e6"/>
+</p>
+<p>
+Then click done to finish the process.
+</p>
+<br />
+
