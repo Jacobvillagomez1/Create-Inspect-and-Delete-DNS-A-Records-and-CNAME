@@ -16,7 +16,7 @@ In this tutorial, going off On-premises Active Directory Deployed in the Cloud (
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop Connection
 - Active Directory Domain Services
-- SEver Manager
+- Server Manager
 - DNS Manager
 - Command Prompt (Admin)
 
