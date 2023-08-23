@@ -41,18 +41,18 @@ In this tutorial, going off On-premises Active Directory Deployed in the Cloud (
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/Creating-Resources-Groups-Storage-Accounts-and-Containers/assets/143027686/7d4b9bf6-474d-41e8-b189-c3e6d017f5f2"/>
+<img src="https://github.com/Jacobvillagomez1/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME/assets/143027686/ab091d4c-4b4b-4034-9488-9f27b0d25530"/>
 </p>
 <p>
-First we need to type Resource Groups in the Azure search bar then click the create resource group tab.
+First we need to log back into Cilent-1 and DC-1 from [https://github.com/Jacobvillagomez1/Configuring-On-premises-Active-Directory-within-Azure-VMs] using Remote Desktop Connection. Copy the Public IP and log into the VM indivudally.
 </p>
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/Creating-Resources-Groups-Storage-Accounts-and-Containers/assets/143027686/45b556ff-eb52-43aa-a484-b3dc796f29a8"/>
+<img src="https://github.com/Jacobvillagomez1/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME/assets/143027686/bec682f8-0a86-44ff-bfdb-a083311cb3ee"/>
 </p>
 <p>
-Once we are in the Resource Group make sure its under your subscription, the Resource Group name can be named RG-01, and your region US West US 3.
+Next open Cilent-1 VM and search for Command Prompt in the search bar.
 </p>
 <br />
 
